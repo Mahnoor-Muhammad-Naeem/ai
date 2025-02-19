@@ -1,1 +1,237 @@
+Here’s a comprehensive list of 100 interview questions for Generative AI, categorized into different topics. These questions cover foundational concepts, technical details, and practical applications of generative AI. The most important questions are marked with a (*).
+
+1. Foundational Concepts
+What is Generative AI?
+
+How does Generative AI differ from Discriminative AI?
+
+What are the key applications of Generative AI?
+
+Explain the concept of a generative model.
+
+What is the difference between supervised and unsupervised learning in the context of Generative AI?
+
+What is a latent space in Generative AI?
+
+What is the role of probability distributions in generative models?
+
+What is the difference between parametric and non-parametric generative models?
+
+What is the curse of dimensionality, and how does it affect generative models?
+
+What is the difference between generative and discriminative models?
+
+2. Generative Models
+What are the most common types of generative models?
+
+Explain how Autoencoders work.
+
+What is a Variational Autoencoder (VAE)?
+
+How does a VAE differ from a standard autoencoder?
+
+What is the role of the KL divergence in VAEs?
+
+What are Generative Adversarial Networks (GANs)?
+
+Explain the architecture of a GAN.
+
+What is the role of the generator and discriminator in a GAN?
+
+What is the minimax game in GANs?
+
+What are the challenges of training GANs?
+
+What is mode collapse in GANs?
+
+How can mode collapse be mitigated?
+
+What are Diffusion Models?
+
+Explain the forward and reverse processes in diffusion models.
+
+What is the difference between DDPM and DDIM?
+
+What are Flow-based Models?
+
+Explain the concept of normalizing flows.
+
+What are Transformers in the context of generative AI?
+
+How do autoregressive models like GPT work?
+
+What is the difference between autoregressive and non-autoregressive models?
+
+3. Technical Deep Dive
+What is the loss function used in GANs?
+
+How do you evaluate the performance of a generative model?
+
+What are Fréchet Inception Distance (FID) and Inception Score (IS)?
+
+What is the role of noise in generative models?
+
+How does temperature affect the output of generative models?
+
+What is the difference between maximum likelihood estimation (MLE) and adversarial training?
+
+What is the reparameterization trick in VAEs?
+
+How do you handle overfitting in generative models?
+
+What is the role of attention mechanisms in generative models?
+
+How do you balance exploration and exploitation in generative models?
+
+4. Applications of Generative AI
+How is Generative AI used in image generation?
+
+What are some examples of text generation using Generative AI?
+
+How is Generative AI used in music generation?
+
+What are the applications of Generative AI in healthcare?
+
+How is Generative AI used in video generation?
+
+What are the ethical concerns of using Generative AI in deepfakes?
+
+How is Generative AI used in data augmentation?
+
+What are the applications of Generative AI in gaming?
+
+How is Generative AI used in drug discovery?
+
+What are the challenges of using Generative AI in real-time applications?
+
+5. Ethics and Challenges
+What are the ethical concerns of Generative AI?
+
+How can Generative AI be misused?
+
+What is the impact of Generative AI on intellectual property rights?
+
+How can bias in generative models be mitigated?
+
+What are the risks of deepfakes created by Generative AI?
+
+How can Generative AI be regulated?
+
+What are the environmental impacts of training large generative models?
+
+How can we ensure fairness in generative models?
+
+What are the challenges of explainability in Generative AI?
+
+How can Generative AI be used responsibly?
+
+6. Advanced Topics
+What is few-shot learning in Generative AI?
+
+What is zero-shot learning in Generative AI?
+
+How does transfer learning apply to generative models?
+
+What is the role of reinforcement learning in Generative AI?
+
+What is the difference between fine-tuning and pretraining in generative models?
+
+How do you handle multi-modal generative models?
+
+What is the role of contrastive learning in Generative AI?
+
+What are the challenges of scaling generative models?
+
+How do you optimize the inference time of generative models?
+
+What is the role of quantization in generative models?
+
+7. Tools and Frameworks
+What are the most popular frameworks for Generative AI?
+
+How do you use TensorFlow or PyTorch for Generative AI?
+
+What is Hugging Face, and how is it used in Generative AI?
+
+What is OpenAI’s GPT, and how does it work?
+
+What is DALL·E, and how does it generate images from text?
+
+What is Stable Diffusion, and how does it work?
+
+What are the key features of Google’s Imagen?
+
+How do you use pre-trained models in Generative AI?
+
+What are the challenges of deploying generative models in production?
+
+What are the best practices for versioning generative models?
+
+8. Research and Trends
+What are the latest trends in Generative AI?
+
+What are the limitations of current generative models?
+
+What is the future of Generative AI?
+
+How is Generative AI being used in creative industries?
+
+What are the emerging applications of Generative AI?
+
+What are the challenges of multi-modal generative models?
+
+How is Generative AI being used in robotics?
+
+What are the challenges of real-time generative models?
+
+What are the latest advancements in GANs?
+
+What are the latest advancements in diffusion models?
+
+9. Practical Questions
+How would you design a generative model for text-to-image synthesis?
+
+How would you handle imbalanced data in a generative model?
+
+How would you improve the diversity of outputs in a generative model?
+
+How would you optimize a generative model for low-resource environments?
+
+How would you debug a GAN that is not converging?
+
+How would you evaluate the quality of generated images?
+
+How would you handle overfitting in a generative model?
+
+How would you fine-tune a pre-trained generative model?
+
+How would you deploy a generative model in a production environment?
+
+How would you ensure the security of a generative model?
+
+Most Important Questions (*)
+What is the difference between generative and discriminative models? (*)
+
+Explain the architecture of a GAN. (*)
+
+What is mode collapse in GANs, and how can it be mitigated? (*)
+
+How do diffusion models work? (*)
+
+What are the ethical concerns of Generative AI? (*)
+
+How do you evaluate the performance of a generative model? (*)
+
+What is the role of attention mechanisms in generative models? (*)
+
+How is Generative AI used in real-world applications? (*)
+
+What are the challenges of training large generative models? (*)
+
+How do you handle bias in generative models? (*)
+
+These questions cover a wide range of topics, from theoretical concepts to practical implementation and ethical considerations. Preparing for these will help you excel in a Generative AI interview!
+
+New chat
+Message DeepSeek
 
